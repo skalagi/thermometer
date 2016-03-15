@@ -1,0 +1,22 @@
+{
+  "name": "vue-thermometer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "thermometer.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skalagi/thermometer.git"
+  },
+  "author": "Damian rascada Martyniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skalagi/thermometer/issues"
+  },
+  "homepage": "https://github.com/skalagi/thermometer#readme",
+  "dependencies": {
+    "vue-round-filter": "^1.1.2"
+  }
+}
